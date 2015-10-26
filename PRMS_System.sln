@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PRMS_Client", "PRMS_Client\PRMS_Client.vcxproj", "{7F3A285D-46CD-4D3E-9492-CDDD61B1E623}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PRMS_Server", "PRMS_Server\PRMS_Server.vcxproj", "{A5C4E3B9-51FF-4494-93B9-56DD33DBFE05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F3A285D-46CD-4D3E-9492-CDDD61B1E623}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7F3A285D-46CD-4D3E-9492-CDDD61B1E623}.Debug|Win32.Build.0 = Debug|Win32
+		{7F3A285D-46CD-4D3E-9492-CDDD61B1E623}.Release|Win32.ActiveCfg = Release|Win32
+		{7F3A285D-46CD-4D3E-9492-CDDD61B1E623}.Release|Win32.Build.0 = Release|Win32
+		{A5C4E3B9-51FF-4494-93B9-56DD33DBFE05}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A5C4E3B9-51FF-4494-93B9-56DD33DBFE05}.Debug|Win32.Build.0 = Debug|Win32
+		{A5C4E3B9-51FF-4494-93B9-56DD33DBFE05}.Release|Win32.ActiveCfg = Release|Win32
+		{A5C4E3B9-51FF-4494-93B9-56DD33DBFE05}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal
